@@ -1,0 +1,412 @@
+TPlayWithJenkins
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Info.plist PlayWithJenkins/PlayWithJenkins-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist build/Debug-iphoneos/PlayWithJenkins.app/ResourceRules.plist
+cProcessPCH /var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-dnufcovzzxsybudtuucyiarpynda/PlayWithJenkins-Prefix.pch.pth PlayWithJenkins/PlayWithJenkins-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/AppDelegate.o /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/main.o /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/ViewController.o /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/PlayWithJenkins normal armv7
+cGenerateDSYMFile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app.dSYM /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/PlayWithJenkins
+cCopyStringsFile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/en.lproj/InfoPlist.strings PlayWithJenkins/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Default.png PlayWithJenkins/Default.png
+cCopyPNGFile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Default@2x.png PlayWithJenkins/Default@2x.png
+cCopyPNGFile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Default-568h@2x.png PlayWithJenkins/Default-568h@2x.png
+cCompileStoryboard /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/en.lproj/MainStoryboard.storyboard
+cProcessProductPackaging "/Users/moerben/Library/MobileDevice/Provisioning Profiles/209EE258-C840-4F6A-B7F1-7EE3B095639C.mobileprovision" /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/moerben/Library/MobileDevice/Provisioning Profiles/209EE258-C840-4F6A-B7F1-7EE3B095639C.mobileprovision" /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/embedded.mobileprovision
+cTouch /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins.xcent
+cCodeSign /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk
+c00000000507C93870000000000000132
+t1350341511
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist
+c00000000506B51B00000000000000094
+t1349210544
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist
+c00000000506B51B00000000000000096
+t1349210544
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000506B51B10000000000322740
+t1349210545
+s3286848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000506B51B20000000000629C80
+t1349210546
+s6462592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000506B51B100000000000015F7
+t1349210545
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000506B51B20000000000000E8D
+t1349210546
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000506B51B300000000011BA850
+t1349210547
+s18589776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/usr/include/Availability.h
+c00000000506B51B40000000000001B54
+t1349210548
+s6996
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/AppDelegate.h
+c0000000050C29568000000000000011B
+t1354929512
+s283
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/AppDelegate.m
+c0000000050C2956800000000000007DD
+t1354929512
+s2013
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins-Prefix.pch
+c0000000050C29568000000000000014D
+t1354929512
+s333
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/ViewController.h
+c0000000050C2956800000000000000DD
+t1354929512
+s221
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/ViewController.m
+c0000000050C2956800000000000001F3
+t1354929512
+s499
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/en.lproj/InfoPlist.strings
+c0000000050C29568000000000000002D
+t1354929512
+s45
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/en.lproj/MainStoryboard.storyboard
+c0000000050C43F380000000000000970
+t1355038520
+s2416
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/main.m
+c0000000050C295680000000000000156
+t1354929512
+s342
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app
+t1355038678
+s408
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app.dSYM
+t1355038678
+s102
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Default-568h@2x.png
+t1354929902
+s7014
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Default.png
+t1354929902
+s3688
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Default@2x.png
+t1354929902
+s6316
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Info.plist
+t1355038463
+s1107
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/PkgInfo
+t1355038463
+s8
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/PlayWithJenkins
+t1355038678
+s37440
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/ResourceRules.plist
+t1354929901
+s150
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/embedded.mobileprovision
+t1355038464
+s9687
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/en.lproj/InfoPlist.strings
+t1354929902
+s42
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/en.lproj/MainStoryboard.storyboardc
+t1355038526
+s170
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/AppDelegate.o
+t1355038463
+s85828
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/PlayWithJenkins.LinkFileList
+c0000000050C296ED00000000000001E2
+t1354929901
+s482
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/ViewController.o
+t1355038463
+s67588
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/main.o
+t1355038463
+s3368
+
+N/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins.xcent
+t1355038464
+s418
+
+N/Users/moerben/Library/MobileDevice/Provisioning Profiles/209EE258-C840-4F6A-B7F1-7EE3B095639C.mobileprovision
+c0000000050C4365F00000000000025D7
+t1355036255
+s9687
+
+N/Users/moerben/Library/MobileDevice/Provisioning Profiles/7E304F61-6A4A-4566-8FAA-E0B837BFE74F.mobileprovision
+c00000000507CADAB0000000000002523
+t1350348203
+s9507
+
+N/var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-dnufcovzzxsybudtuucyiarpynda/PlayWithJenkins-Prefix.pch.pth
+t1355038463
+s4770352
+
+N/var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-enyldnzqbpueyebrayjgqnnholvw/PlayWithJenkins-Prefix.pch.pth
+t2
+s0
+
+NPlayWithJenkins/PlayWithJenkins-Info.plist
+c0000000050C2956800000000000004CD
+t1354929512
+s1229
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies48c5bf637774b641^1bd4e6637774b641^---0#1#0#--18"Check dependencies36"7526586F-9E57-4FE0-897B-BFA7AAA5C302-
+
+CCodeSign /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app
+s376731491.987805
+e376731492.116583
+r1
+xCodeSign
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app
+o/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app: replacing existing signature
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"CodeSign build/Debug-iphoneos/PlayWithJenkins.appee09fe637774b641^62d81d647774b641^-132"/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app: replacing existing signature-0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/0000000000000000^943"CodeSign build/Debug-iphoneos/PlayWithJenkins.app    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 4bbc3b3289872188a96c09f07021b557db3e6671 --resource-rules=/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/ResourceRules.plist --entitlements /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins.xcent /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app36"E150A4BF-683B-4706-A396-193281F2B877-
+
+CCompileC build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/AppDelegate.o /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376731263.672642
+e376731263.724156
+r1
+xCompileC
+xbuild/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/AppDelegate.o
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/AppDelegate.m9c50ac7f7674b641^c4b24d807674b641^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/AppDelegate.m0000000000000000^3893"CompileC build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/AppDelegate.o PlayWithJenkins/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-generated-files.hmap -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-own-target-headers.hmap -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-all-target-headers.hmap -iquote /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-project-headers.hmap -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/DerivedSources/armv7 -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/DerivedSources -F/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos -include /var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-dnufcovzzxsybudtuucyiarpynda/PlayWithJenkins-Prefix.pch -MMD -MT dependencies -MF /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/AppDelegate.dia -c /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/AppDelegate.m -o /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/AppDelegate.o36"0E0592FD-6220-49DC-A691-236C79F8342D-
+
+CCompileC build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/ViewController.o /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376731263.672628
+e376731263.717615
+r1
+xCompileC
+xbuild/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/ViewController.o
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/ViewController.m7f4fac7f7674b641^9f5b08807674b641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/ViewController.m0000000000000000^3911"CompileC build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/ViewController.o PlayWithJenkins/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-generated-files.hmap -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-own-target-headers.hmap -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-all-target-headers.hmap -iquote /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-project-headers.hmap -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/DerivedSources/armv7 -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/DerivedSources -F/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos -include /var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-dnufcovzzxsybudtuucyiarpynda/PlayWithJenkins-Prefix.pch -MMD -MT dependencies -MF /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/ViewController.dia -c /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/ViewController.m -o /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/ViewController.o36"64205AF5-B46B-45BE-B20D-B8070371CB25-
+
+CCompileC build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/main.o /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376731263.672646
+e376731263.693074
+r1
+xCompileC
+xbuild/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/main.o
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/main.ma04fac7f7674b641^be11cd7f7674b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/main.m0000000000000000^3851"CompileC build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/main.o PlayWithJenkins/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-generated-files.hmap -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-own-target-headers.hmap -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-all-target-headers.hmap -iquote /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-project-headers.hmap -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/DerivedSources/armv7 -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/DerivedSources -F/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos -include /var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-dnufcovzzxsybudtuucyiarpynda/PlayWithJenkins-Prefix.pch -MMD -MT dependencies -MF /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/main.dia -c /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/main.m -o /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/main.o36"97A250B6-78BA-4F60-8D01-45D93F29DFEC-
+
+CCompileStoryboard /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/en.lproj/MainStoryboard.storyboard
+s376731326.256591
+e376731326.300339
+r1
+xCompileStoryboard
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"CompileStoryboard PlayWithJenkins/en.lproj/MainStoryboard.storyboard65c841be7674b641^8ee64cbe7674b641^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/en.lproj/MainStoryboard.storyboard0000000000000000^979"CompileStoryboard PlayWithJenkins/en.lproj/MainStoryboard.storyboard    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/en.lproj/MainStoryboard.storyboardc /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk36"997BE512-21A3-4EAB-BC2C-3D34D5DDE354-
+
+CCopyPNGFile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Default-568h@2x.png PlayWithJenkins/Default-568h@2x.png
+s376622702.032995
+e376622702.113625
+r1
+xCopyPNGFile
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Default-568h@2x.png
+xPlayWithJenkins/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CopyPNGFile build/Debug-iphoneos/PlayWithJenkins.app/Default-568h@2x.png PlayWithJenkins/Default-568h@2x.png6a86086ece72b641^6b66a16ece72b641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/Default-568h@2x.png0000000000000000^724"CopyPNGFile "build/Debug-iphoneos/PlayWithJenkins.app/Default-568h@2x.png" "PlayWithJenkins/Default-568h@2x.png"    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/Default-568h@2x.png" "/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Default-568h@2x.png"36"27C340AC-2E0C-42CB-89C3-BD2897BA72CD-
+
+CCopyPNGFile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Default.png PlayWithJenkins/Default.png
+s376622702.032989
+e376622702.074933
+r1
+xCopyPNGFile
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Default.png
+xPlayWithJenkins/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CopyPNGFile build/Debug-iphoneos/PlayWithJenkins.app/Default.png PlayWithJenkins/Default.png0d8c086ece72b641^2c61a16ece72b641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/Default.png0000000000000000^684"CopyPNGFile build/Debug-iphoneos/PlayWithJenkins.app/Default.png PlayWithJenkins/Default.png    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/Default.png /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Default.png36"815310EC-771B-4DD0-8D2B-963239EB1C9D-
+
+CCopyPNGFile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Default@2x.png PlayWithJenkins/Default@2x.png
+s376622702.032959
+e376622702.106693
+r1
+xCopyPNGFile
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Default@2x.png
+xPlayWithJenkins/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"CopyPNGFile build/Debug-iphoneos/PlayWithJenkins.app/Default@2x.png PlayWithJenkins/Default@2x.png4c8d086ece72b641^1f64a16ece72b641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/Default@2x.png0000000000000000^704"CopyPNGFile "build/Debug-iphoneos/PlayWithJenkins.app/Default@2x.png" "PlayWithJenkins/Default@2x.png"    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/Default@2x.png" "/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Default@2x.png"36"C97DD1BC-AD3C-4DA3-ABA9-821125144D67-
+
+CCopyStringsFile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/en.lproj/InfoPlist.strings PlayWithJenkins/en.lproj/InfoPlist.strings
+s376622702.032972
+e376622702.631232
+r1
+xCopyStringsFile
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/en.lproj/InfoPlist.strings
+xPlayWithJenkins/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy PlayWithJenkins/en.lproj/InfoPlist.strings6090086ece72b641^9373ca6ece72b641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/en.lproj/InfoPlist.strings0000000000000000^647"CopyStringsFile build/Debug-iphoneos/PlayWithJenkins.app/en.lproj/InfoPlist.strings PlayWithJenkins/en.lproj/InfoPlist.strings    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/en.lproj -- PlayWithJenkins/en.lproj/InfoPlist.strings36"4DE83063-0F64-4ED9-A208-46B3E418024B-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist build/Debug-iphoneos/PlayWithJenkins.app/ResourceRules.plist
+s376622701.587587
+e376622701.590078
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist
+xbuild/Debug-iphoneos/PlayWithJenkins.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug-iphoneos/PlayWithJenkins.app/ResourceRules.plist548d966dce72b641^7c0f976dce72b641^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/ResourceRules.plist000000afb3051042^803"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist build/Debug-iphoneos/PlayWithJenkins.app/ResourceRules.plist    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/ResourceRules.plist /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app36"8BC31C97-A513-460A-9305-BFE930B7837F-
+
+CGenerateDSYMFile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app.dSYM /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/PlayWithJenkins
+s376731478.599834
+e376731478.621384
+r1
+xGenerateDSYMFile
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app.dSYM
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/PlayWithJenkins
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Generating /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app.dSYM61c199567774b641^f0139f567774b641^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app.dSYM/0000000000000000^722"GenerateDSYMFile build/Debug-iphoneos/PlayWithJenkins.app.dSYM build/Debug-iphoneos/PlayWithJenkins.app/PlayWithJenkins    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/PlayWithJenkins -o /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app.dSYM36"F1B6C475-2058-4BF7-8EFB-7A9397BF60C7-
+
+CLd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/PlayWithJenkins normal armv7
+s376731263.731152
+e376731263.752176
+r1
+xLd
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/PlayWithJenkins
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/PlayWithJenkinsc747bb7f7674b641^94dc5d807674b641^---0#0#0#--1220"Ld build/Debug-iphoneos/PlayWithJenkins.app/PlayWithJenkins normal armv7    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -L/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos -F/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos -filelist /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/Objects-normal/armv7/PlayWithJenkins.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=5.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/PlayWithJenkins36"3F57F1FF-8FD7-4EFA-9E89-E7320E18204A-
+
+CProcessInfoPlistFile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Info.plist PlayWithJenkins/PlayWithJenkins-Info.plist
+s376731263.444893
+e376731263.448279
+r1
+xProcessInfoPlistFile
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Info.plist
+xPlayWithJenkins/PlayWithJenkins-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Process PlayWithJenkins/PlayWithJenkins-Info.plist6901727f7674b641^7ac2727f7674b641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins-Info.plist0000000000000000^897"ProcessInfoPlistFile build/Debug-iphoneos/PlayWithJenkins.app/Info.plist PlayWithJenkins/PlayWithJenkins-Info.plist    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility PlayWithJenkins/PlayWithJenkins-Info.plist -genpkginfo /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/ResourceRules.plist -o /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/Info.plist36"B00EBB66-9373-4119-8C06-29EB88DE5657-
+
+CProcessPCH /var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-dnufcovzzxsybudtuucyiarpynda/PlayWithJenkins-Prefix.pch.pth PlayWithJenkins/PlayWithJenkins-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376731263.457041
+e376731263.665781
+r1
+xProcessPCH
+x/var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-dnufcovzzxsybudtuucyiarpynda/PlayWithJenkins-Prefix.pch.pth
+xPlayWithJenkins/PlayWithJenkins-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile PlayWithJenkins/PlayWithJenkins-Prefix.pch1747757f7674b641^1571aa7f7674b641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins-Prefix.pch0000000000000000^3885"ProcessPCH /var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-dnufcovzzxsybudtuucyiarpynda/PlayWithJenkins-Prefix.pch.pth PlayWithJenkins/PlayWithJenkins-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-generated-files.hmap -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-own-target-headers.hmap -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-all-target-headers.hmap -iquote /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-project-headers.hmap -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/DerivedSources/armv7 -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/DerivedSources -F/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos --serialize-diagnostics /var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-dnufcovzzxsybudtuucyiarpynda/PlayWithJenkins-Prefix.pch.dia -c /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins-Prefix.pch -o /var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-dnufcovzzxsybudtuucyiarpynda/PlayWithJenkins-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-dnufcovzzxsybudtuucyiarpynda/PlayWithJenkins-Prefix.pch.d36"30224320-DE0E-4385-B4C5-47B7D560FE9E-
+
+CProcessPCH /var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-enyldnzqbpueyebrayjgqnnholvw/PlayWithJenkins-Prefix.pch.pth PlayWithJenkins/PlayWithJenkins-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s376622701.600266
+e376622701.848327
+r1
+xProcessPCH
+x/var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-enyldnzqbpueyebrayjgqnnholvw/PlayWithJenkins-Prefix.pch.pth
+xPlayWithJenkins/PlayWithJenkins-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile PlayWithJenkins/PlayWithJenkins-Prefix.pchd0d2996dce72b641^412ed96dce72b641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins-Prefix.pch0000000000000000^3885"ProcessPCH /var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-enyldnzqbpueyebrayjgqnnholvw/PlayWithJenkins-Prefix.pch.pth PlayWithJenkins/PlayWithJenkins-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=6.0 -iquote /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-generated-files.hmap -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-own-target-headers.hmap -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-all-target-headers.hmap -iquote /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins-project-headers.hmap -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/DerivedSources/armv7 -I/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/DerivedSources -F/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos --serialize-diagnostics /var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-enyldnzqbpueyebrayjgqnnholvw/PlayWithJenkins-Prefix.pch.dia -c /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins/PlayWithJenkins-Prefix.pch -o /var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-enyldnzqbpueyebrayjgqnnholvw/PlayWithJenkins-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/_4/t57jqfz12rvb9b63jtrny2qd8l8my6/C/com.apple.Xcode.1362383814/SharedPrecompiledHeaders/PlayWithJenkins-Prefix-enyldnzqbpueyebrayjgqnnholvw/PlayWithJenkins-Prefix.pch.d36"6D6CA33F-F3CE-4566-BF91-A0D44870367A-
+
+CProcessProductPackaging "/Users/moerben/Library/MobileDevice/Provisioning Profiles/209EE258-C840-4F6A-B7F1-7EE3B095639C.mobileprovision" /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/embedded.mobileprovision
+s376731264.585776
+e376731264.588215
+r1
+xProcessProductPackaging
+x/Users/moerben/Library/MobileDevice/Provisioning Profiles/209EE258-C840-4F6A-B7F1-7EE3B095639C.mobileprovision
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection202"ProcessProductPackaging "/Users/moerben/Library/MobileDevice/Provisioning Profiles/209EE258-C840-4F6A-B7F1-7EE3B095639C.mobileprovision" build/Debug-iphoneos/PlayWithJenkins.app/embedded.mobileprovision7f1396807674b641^539596807674b641^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/embedded.mobileprovision0000000000000000^755"ProcessProductPackaging "/Users/moerben/Library/MobileDevice/Provisioning Profiles/209EE258-C840-4F6A-B7F1-7EE3B095639C.mobileprovision" build/Debug-iphoneos/PlayWithJenkins.app/embedded.mobileprovision    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/moerben/Library/MobileDevice/Provisioning Profiles/209EE258-C840-4F6A-B7F1-7EE3B095639C.mobileprovision" -o /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/embedded.mobileprovision36"F0150CC2-D889-4FBD-8D1B-FE2FBC32B63A-
+
+CProcessProductPackaging "/Users/moerben/Library/MobileDevice/Provisioning Profiles/7E304F61-6A4A-4566-8FAA-E0B837BFE74F.mobileprovision" /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/embedded.mobileprovision
+s376622702.894727
+e376622702.897141
+r1
+xProcessProductPackaging
+x/Users/moerben/Library/MobileDevice/Provisioning Profiles/7E304F61-6A4A-4566-8FAA-E0B837BFE74F.mobileprovision
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection202"ProcessProductPackaging "/Users/moerben/Library/MobileDevice/Provisioning Profiles/7E304F61-6A4A-4566-8FAA-E0B837BFE74F.mobileprovision" build/Debug-iphoneos/PlayWithJenkins.app/embedded.mobileprovision9f20e56ece72b641^ab94fa6ece72b641^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/embedded.mobileprovision0000000000000000^755"ProcessProductPackaging "/Users/moerben/Library/MobileDevice/Provisioning Profiles/7E304F61-6A4A-4566-8FAA-E0B837BFE74F.mobileprovision" build/Debug-iphoneos/PlayWithJenkins.app/embedded.mobileprovision    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/moerben/Library/MobileDevice/Provisioning Profiles/7E304F61-6A4A-4566-8FAA-E0B837BFE74F.mobileprovision" -o /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app/embedded.mobileprovision36"FE51020B-B4E1-4028-BF3E-938488F72D6F-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins.xcent
+s376731264.609485
+e376731264.611851
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection231"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins.xcenteb1b9c807674b641^98a6a4807674b641^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins.xcent0000000000000000^839"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins.xcent    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/PlayWithJenkins.build/Debug-iphoneos/PlayWithJenkins.build/PlayWithJenkins.xcent36"DF9A74C2-AD9B-4227-A914-46598264B3CA-
+
+CTouch /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app
+s376731326.324099
+e376731326.329746
+r1
+xTouch
+x/Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Touch /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app411153be7674b641^b16a54be7674b641^---0#0#0#--444"Touch build/Debug-iphoneos/PlayWithJenkins.app    cd /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/moerben/Documents/Play/PlayWithJenkins/PlayWithJenkins/build/Debug-iphoneos/PlayWithJenkins.app36"7DBFB52A-0C9C-4CEB-820B-B5FAEF6E7860-
+
